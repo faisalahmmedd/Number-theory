@@ -4,6 +4,10 @@
 
 /// Spoj problem - (SUMPRO - SUM OF PRODUCT)
 
+/*
+https://www.geeksforgeeks.org/sum-product-x-y-floornx-y/
+*/
+
 
 #include<bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
